@@ -9,6 +9,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     async function fetchProductsByCategory(category) {
         const response = await axios.get(`https://fakestoreapi.com/products/category/${category}`);
         console.log(response.data);
+        let productTitle = document.getElementById("product-list-title");
+        productTitle.innerText = category;
         return response.data;
     }
 
