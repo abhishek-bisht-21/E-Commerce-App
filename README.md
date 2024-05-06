@@ -2,11 +2,15 @@
 
 Shop Kart is a front-end e-commerce application built using HTML, CSS, and Vanilla JavaScript. It utilizes the FakeStore API to fetch product data, Axios for making API calls, DOM APIs for manipulation, and Bootstrap for styling and UI components.
 
+## Application Link
+
+The application can be accessed https://abhishek-bisht-21.github.io/E-Commerce-App/
+
 ## Pages
 
-1. **Home Page**: The landing page of the application, displaying featured products and promotions.
+1. **Home Page**: The landing page of the application, displays featured products and promotions.
 2. **Login Page**: Allows users to log in to their accounts.
-3. **Product Detail Page**: Displays detailed information about a specific product, including images, description, price, and options to add to cart.
+3. **Product Detail Page**: Displays detailed information about a specific product, including images, description, price, and options to add to the cart.
 4. **Product List**: Lists all available products with options to filter and sort.
 5. **Cart Page**: Shows the items added to the cart with options for editing and checkout.
 
@@ -48,6 +52,3 @@ To run the application locally, follow these steps:
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
 - Axios: [https://axios-http.com/](https://axios-http.com/)
 
-## Application Link
-
-The application can be accessed (https://abhishek-bisht-21.github.io/E-Commerce-App/).
